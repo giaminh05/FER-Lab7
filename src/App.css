@@ -1,0 +1,62 @@
+.flim {
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.flim.visible {
+  opacity: 1;
+}
+
+.carousel .thumb img {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.carousel .slide img {
+  max-height: 600px;
+  width: auto;
+}
+
+.about5{
+  margin: auto;
+  margin-top: -30px;
+  margin-bottom: -50px;
+  min-height: 83.5vh;
+}
+
+.about5 h3{
+  justify-content: center;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.footer{
+  background: linear-gradient(to right, #206eeb, #373B44); 
+}
+
+.news{
+  margin-bottom: -50px;
+}
+
+.button-submit{
+  background: linear-gradient(to right, #206eeb, #373B44); 
+}
+
+.home{
+  margin-bottom: -50px;
+  margin-top: -40px;
+}
+
+.detail{
+  margin-bottom: -50px;
+}
+
+.dashboard{
+  padding-top: 20px;
+  margin-bottom: -50px;
+}
+
+.add{
+  margin-top: -40px;
+  margin-bottom: -50px;
+}
